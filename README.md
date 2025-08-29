@@ -94,6 +94,7 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 💻 Upwork:<br>
 
 > 💡 Open to freelancing projects in automation, scripting, and web scraping.
+
 <br><br><br>
 
 
