@@ -23,9 +23,7 @@ Currently freelancing on Upwork and Fiverr, while studying at**42 Madrid** and p
 ✔ Create APIs & dashboards for automation tools.
 ✔ Deploy automation in Docker containers to Linux servers.
 ✔ Manage cloud resources (AWS/GCP/Azure) programmatically.
-✔ Integrate with CI/CD pipelines for professional-grade delivery.
-✔️ Available for **freelance projects** (Python scripts, automation, web tools, C++ systems).  
-✔️ Interested in collaborating on **open-source projects**.  
+✔ Integrate with CI/CD pipelines for professional-grade delivery. 
 
 
 ## 🛠️ Tech Stack  
@@ -81,14 +79,14 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jreyroj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jreyroj&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmarey1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarey1&layout=compact&theme=tokyonight)  
 
 
 ## 📫 How to reach me  
 
 📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  
-💼 LinkedIn: () 
+💼 LinkedIn: 
 
 💡 Let’s work together! I’m open to freelancing projects and collaborations.  
 
