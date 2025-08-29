@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Juan Rey Rojas  
+*Freelancing Python Automation & Scripting Expert*  
 
 💻 C/C++ Developer | 🐍 Python Automation & Scraping | ⚙️ Mechanical Engineer  
 🎓 Programming at 42 Madrid | 📚 Mechanical Engineering at UC3M  
@@ -8,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)]
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]
+![Freelancer](https://img.shields.io/badge/Freelancer-Python%20Automation-green?style=for-the-badge)
 
 
 ## 🚀 About Me  
@@ -81,14 +83,16 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmarey1&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarey1&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanmarey1&theme=tokyonight)
 
 
 ## 📫 How to reach me  
 
 📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  
 💼 LinkedIn: 
+💻 Upwork: 
 
-💡 Let’s work together! I’m open to freelancing projects and collaborations.  
+> 💡 Open to freelancing projects in automation, scripting, and web scraping.
 
 
 # README PAGE IN PROGRESS! 🛠️
