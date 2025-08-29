@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Rey Rojas  
+# 👋 Hi, I'm Juan Manuel Rey Rojas  
 *Freelancing Python Automation & Scripting Expert*  
 
 💻 C/C++ Developer | 🐍 Python Automation & Scraping | ⚙️ Mechanical Engineer  
