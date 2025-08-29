@@ -91,7 +91,7 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 
 📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  <br>
 💼 LinkedIn:<br>
-💻 Upwork: [upwork.com/freelancers/640570d48a09d282](https://www.upwork.com/freelancers/~640570d48a09d282)<br>
+💻 Upwork: [upwork.com/freelancers/~640570d48a09d282](https://www.upwork.com/freelancers/~640570d48a09d282)<br>
 
 > 💡 Open to freelancing projects in automation, scripting, and web scraping.
 
