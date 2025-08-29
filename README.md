@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Rey Rojas  
 
-<!--
-**juanmarey1/juanmarey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C/C++ Developer | 🐍 Python Automation & Scraping | ⚙️ Mechanical Engineer  
+🎓 Programming at 42 Madrid | 📚 Mechanical Engineering at UC3M  
+🚀 Freelancer helping clients build fast, reliable, and efficient software  
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumareyrojas1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)]
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me  
+
+I am a software developer passionate about **automation tools, custom scripts and process optimizations**.
+My focus is on helping businesses **save time, reduce manual work, and increase efficiency through tailored solutions mostly in Python**
+Whether it is **data scraping, report generation, task automation or building APIs**, I deliver clean, reliable and scalable code.
+
+Currently freelancing on Upwork and Fiverr, while studying at**42 Madrid** and pursuing **Mechanical Engineering at UC3M**
+
+✔ Build small daily automation scripts or full automation pipelines.
+✔ Automate web scraping, data pipelines, and reports.
+✔ Create APIs & dashboards for automation tools.
+✔ Deploy automation in Docker containers to Linux servers.
+✔ Manage cloud resources (AWS/GCP/Azure) programmatically.
+✔ Integrate with CI/CD pipelines for professional-grade delivery.
+✔️ Available for **freelance projects** (Python scripts, automation, web tools, C++ systems).  
+✔️ Interested in collaborating on **open-source projects**.  
+
+
+## 🛠️ Tech Stack  
+
+#### 🔰 Core / Foundation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- Languages: Python (primary), Bash, JavaScript (basic), PowerShell
+- Core scripting: loops, functions, modular code, error handling
+- File automation: `.txt`, `.csv`, `.json`
+- Daily task automation: file renaming, backups, email scripts
+- Version control: Git, GitHub
+
+#### 🛠 Workflow / Business Automation
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge)
+
+- Regex: log parsing, text processing, scraping
+- Spreadsheet automation: pandas, openpyxl, csv
+- PDF & doc automation: PyPDF2, pdfplumber, python-docx
+- Browser automation: Selenium, Playwright
+- Database automation: SQLite, PostgreSQL, SQLAlchemy
+- CLI tools: Click, Typer
+- Logging & debugging: structured logs, error handling
+- Scheduling: cron (Linux), Task Scheduler (Windows)
+
+#### 🧠 Advanced / Expert Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- Async & concurrency: asyncio, aiohttp
+- API development: Flask, FastAPI
+- Containerization: Docker
+- CI/CD: GitHub Actions
+- Cloud automation: AWS (boto3), GCP
+- Security: environment variables, dotenv, secrets management
+- Workflow orchestration: Celery, RQ, Airflow for scalable pipelines
+
+
+## 📌 Featured Projects  
+
+🔹 [**Web Server (C++98)**](https://github.com/jreyroj/webserv)  
+Replicates an HTTP/1.1 server from scratch with GET/POST/DELETE, CGI support, and NGINX-like config system.  
+
+🔹 [**Mini Shell (C)**](https://github.com/jreyroj/minishell)  
+Bash shell replica with pipes, redirections, builtins, and environment handling.  
+
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jreyroj&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jreyroj&layout=compact&theme=tokyonight)  
+
+
+## 📫 How to reach me  
+
+📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  
+💼 LinkedIn: () 
+
+💡 Let’s work together! I’m open to freelancing projects and collaborations.  
+
+
+# README PAGE IN PROGRESS! 🛠️
