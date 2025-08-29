@@ -14,18 +14,20 @@
 
 ## 🚀 About Me  
 
-I am a software developer passionate about **automation tools, custom scripts and process optimizations**.<br>
+I am a software developer passionate about **automation tools, custom scripts and process optimizations**.
+
 My focus is on helping businesses **save time, reduce manual work, and increase efficiency through tailored solutions mostly in Python**
 Whether it is **data scraping, report generation, task automation or building APIs**, I deliver clean, reliable and scalable code.
 
+
 Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and pursuing **Mechanical Engineering at UC3M**
 
-✔ Build small daily automation scripts or full automation pipelines.<br>
-✔ Automate web scraping, data pipelines, and reports.<br>
-✔ Create APIs & dashboards for automation tools.<br>
-✔ Deploy automation in Docker containers to Linux servers.<br>
-✔ Manage cloud resources (AWS/GCP/Azure) programmatically.<br>
-✔ Integrate with CI/CD pipelines for professional-grade delivery. 
+✔ **Build** small daily automation scripts or full automation pipelines.<br>
+✔ **Automate** web scraping, data pipelines, and reports.<br>
+✔ **Create** APIs & dashboards for automation tools.<br>
+✔ **Deploy** automation in Docker containers to Linux servers.<br>
+✔ **Manage** cloud resources (AWS/GCP/Azure) programmatically.<br>
+✔ **Integrate** with CI/CD pipelines for professional-grade delivery. 
 
 
 ## 🛠️ Tech Stack  
@@ -35,25 +37,25 @@ Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Languages: Python (primary), C, C++, bash
-- Core scripting: loops, functions, modular code, error handling
+- Languages: **Python** (primary), **C**, **C++**, **bash**
+- Core scripting: *loops*, *functions*, *modular code*, *error handling*
 - File automation: `.txt`, `.csv`, `.json`
-- Daily task automation: file renaming, backups, email scripts
-- Version control: Git, GitHub
+- Daily task automation: *file renaming*, *backups*, *email scripts*
+- Version control: **Git**, **GitHub**
 
 #### 🛠 Workflow / Business Automation
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge)
 
-- Regex: log parsing, text processing, scraping
+- Regex: *log parsing*, *text processing*, *scraping*
 - Spreadsheet automation: `pandas`, `openpyxl`, `csv`
 - PDF & doc automation: `PyPDF2`, `pdfplumber`, `python-docx`
 - Browser automation: `Selenium`
 - Database automation: `SQLite`, `SQLAlchemy`
 - CLI tools: `Click`, `argparse`
-- Logging & debugging: structured logs, error handling
-- Scheduling: cron (Linux), `schedule`
+- Logging & debugging: *structured logs*, *error handling*
+- Scheduling: `cron` (Linux), `schedule`
 
 #### 🧠 Advanced / Expert Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,10 +65,10 @@ Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and 
 
 - Async & concurrency: `asyncio`, `aiohttp`
 - API development: `Flask`, `FastAPI` 
-- Containerization: Docker
-- CI/CD: GitHub Actions
-- Cloud automation: AWS (`boto3`)
-- Security: environment variables, dotenv, secrets management
+- Containerization: **Docker**
+- CI/CD: **GitHub Actions**
+- Cloud automation: **AWS** (`boto3`)
+- Security: *environment variables*, *dotenv*, *secrets management*
 - Workflow orchestration: `Celery` for scalable pipelines
 
 
