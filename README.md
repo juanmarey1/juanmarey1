@@ -47,13 +47,13 @@ Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge)
 
 - Regex: log parsing, text processing, scraping
-- Spreadsheet automation: pandas, openpyxl, csv
-- PDF & doc automation: PyPDF2, pdfplumber, python-docx
-- Browser automation: Selenium
-- Database automation: SQLite, SQLAlchemy
-- CLI tools: Click, argparse
+- Spreadsheet automation: `pandas`, `openpyxl`, `csv`
+- PDF & doc automation: `PyPDF2`, `pdfplumber`, `python-docx`
+- Browser automation: `Selenium`
+- Database automation: `SQLite`, `SQLAlchemy`
+- CLI tools: `Click`, `argparse`
 - Logging & debugging: structured logs, error handling
-- Scheduling: cron (Linux), schedule
+- Scheduling: cron (Linux), `schedule`
 
 #### 🧠 Advanced / Expert Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,13 +61,13 @@ Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- Async & concurrency: asyncio, aiohttp
-- API development: Flask, FastAPI
+- Async & concurrency: `asyncio`, `aiohttp`
+- API development: `Flask`, `FastAPI` 
 - Containerization: Docker
 - CI/CD: GitHub Actions
-- Cloud automation: AWS (boto3)
+- Cloud automation: AWS (`boto3`)
 - Security: environment variables, dotenv, secrets management
-- Workflow orchestration: Celery for scalable pipelines
+- Workflow orchestration: `Celery` for scalable pipelines
 
 
 ## 📌 Featured Projects  
