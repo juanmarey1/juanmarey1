@@ -20,7 +20,6 @@ Currently freelancing on Upwork and Fiverr, while studying at**42 Madrid** and p
 
 ✔ Build small daily automation scripts or full automation pipelines.
 ✔ Automate web scraping, data pipelines, and reports.
-
 ✔ Create APIs & dashboards for automation tools.
 
 ✔ Deploy automation in Docker containers to Linux servers.
