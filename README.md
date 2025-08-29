@@ -6,7 +6,7 @@
 🚀 Freelancer helping clients build fast, reliable, and efficient software  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumareyrojas1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.upwork.com/freelancers/640570d48a09d282)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)]
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]
 ![Freelancer](https://img.shields.io/badge/Freelancer-Python%20Automation-green?style=for-the-badge)
@@ -91,7 +91,7 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 
 📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  <br>
 💼 LinkedIn:<br>
-💻 Upwork:<br>
+💻 Upwork: [upwork.com/freelancers/640570d48a09d282](https://www.upwork.com/freelancers/640570d48a09d282)<br>
 
 > 💡 Open to freelancing projects in automation, scripting, and web scraping.
 
