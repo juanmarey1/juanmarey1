@@ -17,8 +17,7 @@
 I am a software developer passionate about **automation tools, custom scripts and process optimizations**.
 
 My focus is on helping businesses **save time, reduce manual work, and increase efficiency through tailored solutions mostly in Python**
-Whether it is **data scraping, report generation, task automation or building APIs**, I deliver clean, reliable and scalable code.
-<br>
+Whether it is **data scraping, report generation, task automation or building APIs**, I deliver clean, reliable and scalable code.<br>
 
 Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and pursuing **Mechanical Engineering at UC3M**
 
@@ -91,8 +90,8 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 ## 📫 How to reach me  
 
 📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  <br>
-💼 LinkedIn: <br>
-💻 Upwork: <br>
+💼 LinkedIn:<br>
+💻 Upwork:<br>
 
 > 💡 Open to freelancing projects in automation, scripting, and web scraping.
 
