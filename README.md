@@ -6,7 +6,7 @@
 🚀 Freelancer helping clients build fast, reliable, and efficient software  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumareyrojas1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuelreyrojas)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0139afec838e1b0e09)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/s/GzWLpwL)
 ![Freelancer](https://img.shields.io/badge/Freelancer-Python%20Automation-green?style=for-the-badge)
@@ -90,7 +90,7 @@ Bash shell replica with pipes, redirections, builtins, and environment handling.
 ## 📫 How to reach me  
 
 📧 Email: [jumareyrojas1@gmail.com](mailto:jumareyrojas1@gmail.com)  <br>
-💼 LinkedIn:<br>
+💼 LinkedIn: [linkedin.com/in/juanmanuelreyrojas](https://www.linkedin.com/in/juanmanuelreyrojas)<br>
 💻 Upwork: [upwork.com/freelancers/~0139afec838e1b0e09](https://www.upwork.com/freelancers/~0139afec838e1b0e09)<br>
 📚 Fiverr: [fiverr.com/s/GzWLpwL](https://es.fiverr.com/s/GzWLpwL)<br>
 
