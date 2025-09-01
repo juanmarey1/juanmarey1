@@ -50,7 +50,7 @@ Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and 
 - Regex: *log parsing*, *text processing*, *scraping*
 - Spreadsheet automation: `pandas`, `openpyxl`, `csv`
 - PDF & doc automation: `PyPDF2`, `pdfplumber`, `python-docx`
-- Browser automation: `Selenium`
+- Browser automation: `Selenium`, `BeautifulSoup`
 - Database automation: `SQLite`, `SQLAlchemy`
 - CLI tools: `Click`, `argparse`
 - Logging & debugging: *structured logs*, *error handling*
