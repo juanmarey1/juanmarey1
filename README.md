@@ -16,7 +16,7 @@
 
 I am a software developer passionate about **automation tools, custom scripts and process optimizations**.
 
-My focus is on helping businesses **save time, reduce manual work, and increase efficiency through tailored solutions mostly in Python**
+My focus is on helping businesses **save time, reduce manual work, and increase efficiency through tailored solutions mostly in Python**.
 Whether it is **data scraping, report generation, task automation or building APIs**, I deliver clean, reliable and scalable code.<br><br>
 
 Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and pursuing **Mechanical Engineering at UC3M**
