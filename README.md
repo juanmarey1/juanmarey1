@@ -25,7 +25,7 @@ Currently freelancing on Upwork and Fiverr, while studying at **42 Madrid** and 
 ✔ **Automate** web scraping, data pipelines, and reports.<br>
 ✔ **Create** APIs & dashboards for automation tools.<br>
 ✔ **Deploy** automation in Docker containers to Linux servers.<br>
-✔ **Manage** cloud resources (AWS/GCP/Azure) programmatically.<br>
+✔ **Manage** cloud resources (AWS) programmatically.<br>
 ✔ **Integrate** with CI/CD pipelines for professional-grade delivery. 
 
 
